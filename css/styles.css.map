@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,IAAI,CAAC;EACJ,gBAAgB,EAAE,UAAU;CAC5B;;AAED,AAAA,KAAK,CAAC;EACL,KAAK,EAAE,KAAK;EACZ,SAAS,EAAE,IAAI;EACf,MAAM,EAAE,OAAO;CACf;;AAED,AAAA,KAAK,AAAA,MAAM,CAAC;EACX,KAAK,EAAE,KAAK;EACZ,eAAe,EAAE,IAAI;CACrB;;AAED,AAAA,SAAS,CAAC;EACT,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,MAAM;CACd;;AAED,AAAA,SAAS,CAAC;EACT,KAAK,EAAE,KAAK;EACZ,eAAe,EAAE,IAAI;CACrB",
+    "sources": [
+        "../holidaze/src/sass/styles.scss",
+        "../holidaze/src/sass/partials/_general.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}
